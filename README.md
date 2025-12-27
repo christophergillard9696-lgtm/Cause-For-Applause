@@ -15,7 +15,7 @@
 # 🔩 Technologies:
 
 -  Google Sheets
--  Python/pyA=udio/Beautifulsoup/Pandas/R
+-  Python/pyAudio/Beautifulsoup/Pandas/R
 -  Power Bi 
 -  SQL
 -  DAX

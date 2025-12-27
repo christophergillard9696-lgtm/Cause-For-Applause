@@ -1,13 +1,34 @@
 ![causeforapplause](https://github.com/user-attachments/assets/3a2435e2-ad65-4a93-9e3c-61f4170bc45e)
 
 
-# 🔩 Technologies:
-
 # 🔭 Features:
 
-# ♟️ The Process:
+- Automated Data Gathering, Updating and Processing
+- Applause Categorical Timing and Frequency
+- Interactive Dashboard 
+- Statistical Modelling  
+- Topic Clustering          
 
-# 🗳️ Running The Project:
+
+          
+# 🔩 Technologies:
+
+-  Google Sheets
+-  Python/pyA=udio/Beautifulsoup/Pandas/R
+-  Power Bi 
+-  SQL
+-  DAX
+
+
+
+# ♟️ The Process:
+I wanted to create something that could automatically pull and process from my data scraping, so I developed a python script to pull from reviews left on steam, leveraged SQL to help deliver a cleaned up master set of data, connecting Power Bi to said data to have it automatically update results every morning feeding them through the statistical modeling within Power Bi.
+
+
+# 🗳️ What I have learnt:
+
+
+
 
 # 🎬 Preview:
 

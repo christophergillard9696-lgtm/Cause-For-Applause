@@ -1,5 +1,4 @@
-<img width="19843" height="28063" alt="causeforapplause" src="https://github.com/user-attachments/assets/2aa1a9bf-f3dc-4826-b06b-da524d95ab0d" />
-
+![causeforapplause](https://github.com/user-attachments/assets/3a2435e2-ad65-4a93-9e3c-61f4170bc45e)
 
 
 # 🔩 Technologies:

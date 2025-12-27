@@ -22,8 +22,7 @@
 
 
 # ♟️ The Process:
-I wanted to create something that could automatically pull and process from my data scraping, so I developed a python script to pull from my personal library of clips and first hand Excel sheets, leveraged SQL to help deliver a cleaned up Unioned master set of data, connecting Power Bi to said data to have it automatically update results every time I added more data to my database to then feeding them through the statistical modeling within Power Bi.
-
+I wanted to create something that could help answer why and when we applaud people to help witht the scope of my monography, so I developed a python script to scrape audio from political speeches, and to meld it with my personal library of Excel sheets so that we could organize applause based on the speaker add categories base off the sentiments behind the applause, it would be fed through SQL to help deliver a cleaned up unioned master set of data, which would then be funneled into Power Bi so that we could see what the main causes for applauses are, when people applaud certain sentiments pointing out at which point in the speech you are most likely to hear a certain sentiment expressed followed by applause. 
 
 # 🗳️ What I have learnt:
 
@@ -34,6 +33,8 @@ I had dfficulty making the spead chart because:
 The ways I could imrpove this are:
 
 My automated flow functions interdependantly here and there but not independantly at start and finish
+
+Different time lengths of speeches skewing the data (potential fixes?)
 
 
 # 🎬 Preview:

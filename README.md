@@ -25,7 +25,7 @@
 # ♟️ The Process:
 I wanted to create something that could help answer why and when we applaud people to help witht the scope of my monography, so I developed a python script to scrape audio from political speeches, and to meld it with my personal library of Excel sheets so that we could organize applause based on the speaker add categories base off the sentiments behind the applause, it would be fed through SQL to help deliver a cleaned up unioned master set of data, which would then be funneled into Power Bi so that we could see what the main causes for applauses are, when people applaud certain sentiments pointing out at which point in the speech you are most likely to hear a certain sentiment expressed followed by applause. 
 
-# 🗳️ Lessons and Improovements:
+# 🗳️ Lessons and Improvements:
 
 I needed a category attribute number because:
 

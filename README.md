@@ -7,7 +7,8 @@
 - Applause Categorical Timing and Frequency
 - Interactive Dashboard 
 - Statistical Modelling  
-- Topic Clustering          
+- Topic Clustering  
+- Sentiment Analysis
 
 
           

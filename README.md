@@ -27,7 +27,13 @@ I wanted to create something that could automatically pull and process from my d
 
 # 🗳️ What I have learnt:
 
+I needed a category attribute number because:
 
+I had dfficulty making the spead chart because:
+
+The ways I could imrpove this are:
+
+My automated flow functions interdependantly here and there but not independantly at start and finish
 
 
 # 🎬 Preview:

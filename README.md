@@ -22,7 +22,7 @@
 
 
 # ♟️ The Process:
-I wanted to create something that could automatically pull and process from my data scraping, so I developed a python script to pull from reviews left on steam, leveraged SQL to help deliver a cleaned up master set of data, connecting Power Bi to said data to have it automatically update results every morning feeding them through the statistical modeling within Power Bi.
+I wanted to create something that could automatically pull and process from my data scraping, so I developed a python script to pull from my personal library of clips and first hand Excel sheets, leveraged SQL to help deliver a cleaned up Unioned master set of data, connecting Power Bi to said data to have it automatically update results every time I added more data to my database to then feeding them through the statistical modeling within Power Bi.
 
 
 # 🗳️ What I have learnt:
@@ -39,3 +39,5 @@ https://github.com/user-attachments/assets/3666f9cf-1aa2-404a-8281-fc841b400e48
 
 ![Data Relations](https://github.com/user-attachments/assets/ceae3a18-bd68-4302-98d4-f8037878794b)
 ![Category Snippit](https://github.com/user-attachments/assets/0c580151-21bc-42f5-b553-e4ef9e306368)
+
++++ADD YOUR SQL CODE

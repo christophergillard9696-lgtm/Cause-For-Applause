@@ -17,8 +17,8 @@
 -  Google Sheets
 -  Python/pyAudio/Beautifulsoup/Pandas/R
 -  Power Bi 
--  SQL
 -  DAX
+-  SQL
 
 
 

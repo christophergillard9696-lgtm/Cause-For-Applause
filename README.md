@@ -45,7 +45,7 @@ https://github.com/user-attachments/assets/3666f9cf-1aa2-404a-8281-fc841b400e48
 
 # 🗳️ Lessons and Improvements:
 
-- I needed a category attribute number because otherwise it would not allow me to order them appropriately for the spread graph, it seems Power Bi has a lot of difficulty using categories that are only a text type
+- I needed a category attribute number because otherwise it would not allow me to order them appropriately for the spread graph, it seems Power Bi has a lot of difficulty using categories that are only a text type when placed on an axis
 
 - Given that this is a contemporary look at causes for applauses the data makes sense even if the US skewers the set
 

@@ -45,9 +45,11 @@ https://github.com/user-attachments/assets/3666f9cf-1aa2-404a-8281-fc841b400e48
 
 # 🗳️ Lessons and Improvements:
 
-I needed a category attribute number because:
+- I needed a category attribute number because:
 
-I had dfficulty making the spead chart because:
+- I had dfficulty making the spead chart because:
+
+- potential on fixing skewed data?
 
 The ways I could imrpove this are:
 

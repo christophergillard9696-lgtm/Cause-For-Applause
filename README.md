@@ -35,6 +35,7 @@ I wanted to create something that could help answer the why and when people appl
 
 # 🎬 Preview:
 
+<img width="1311" height="737" alt="Comp Disp" src="https://github.com/user-attachments/assets/8873085a-71b4-4b51-8bf5-8f35d2a1722a" />
 
 https://github.com/user-attachments/assets/f5db8118-6613-4dd4-b193-49fafa32280b
 

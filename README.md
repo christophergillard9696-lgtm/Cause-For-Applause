@@ -44,14 +44,11 @@ https://github.com/user-attachments/assets/3666f9cf-1aa2-404a-8281-fc841b400e48
 
 # 🗳️ Lessons and Improvements:
 
-- I needed a category attribute number because:
+- I needed a category attribute number because otherwise it would not allow me to order them appropriately for the spread graph
 
-- I had dfficulty making the spead chart because:
+- Given that this is a contemporary look at causes for applauses the data makes sense even if the US skewers the set
 
-- potential on fixing skewed data?
+- Different time lengths of speeches are currently skewing the data, I am considering only selecting speeches of a similar length to fix this
 
-- The ways I could imrpove this are:
+- My automated flow functions interdependantly throughout the middle but runs dependantly from the start and end
 
-- My automated flow functions interdependantly here and there but not independantly at start and finish
-
-- Different time lengths of speeches skewing the data (potential fixes?)

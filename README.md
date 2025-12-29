@@ -50,8 +50,8 @@ https://github.com/user-attachments/assets/3666f9cf-1aa2-404a-8281-fc841b400e48
 
 - potential on fixing skewed data?
 
-The ways I could imrpove this are:
+- The ways I could imrpove this are:
 
-My automated flow functions interdependantly here and there but not independantly at start and finish
+- My automated flow functions interdependantly here and there but not independantly at start and finish
 
-Different time lengths of speeches skewing the data (potential fixes?)
+- Different time lengths of speeches skewing the data (potential fixes?)

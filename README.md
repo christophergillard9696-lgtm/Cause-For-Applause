@@ -27,7 +27,11 @@ I wanted to create something that could help answer the why and when people appl
 
 
 # 👁️‍🗨️ Insights:
-(what does your dashboard surface)
+- We can see speeches are rarely ended on attacks
+- Signaling Shared Values takes a majority hold on frequency, but comes in 2nd on length in seconds 
+-Shared Values are spread throughout the speeches from start to middle to end
+-where as attacks are primarily clustered towards the middle and late start
+-recognition of constituents is 2nd but this may be skewed by the recent ending on the US government shutdown
 
 # 🎬 Preview:
 
@@ -36,7 +40,8 @@ https://github.com/user-attachments/assets/f5db8118-6613-4dd4-b193-49fafa32280b
 
 https://github.com/user-attachments/assets/3666f9cf-1aa2-404a-8281-fc841b400e48
 
-
+![Data Relations](https://github.com/user-attachments/assets/ceae3a18-bd68-4302-98d4-f8037878794b)
+![Category Snippit](https://github.com/user-attachments/assets/0c580151-21bc-42f5-b553-e4ef9e306368) **** Come up with a better way to showcase DAX/SQL
 
 # 🗳️ Lessons and Improvements:
 
@@ -49,8 +54,3 @@ The ways I could imrpove this are:
 My automated flow functions interdependantly here and there but not independantly at start and finish
 
 Different time lengths of speeches skewing the data (potential fixes?)
-
-![Data Relations](https://github.com/user-attachments/assets/ceae3a18-bd68-4302-98d4-f8037878794b)
-![Category Snippit](https://github.com/user-attachments/assets/0c580151-21bc-42f5-b553-e4ef9e306368) **** Come up with a better way to showcase DAX/SQL
-
-+++ADD YOUR SQL CODE

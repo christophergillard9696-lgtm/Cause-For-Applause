@@ -29,9 +29,9 @@ I wanted to create something that could help answer the why and when people appl
 # 👁️‍🗨️ Insights:
 - We can see speeches are rarely ended on attacks
 - Signaling Shared Values takes a majority hold on frequency, but comes in 2nd on length in seconds 
--Shared Values are spread throughout the speeches from start to middle to end
--where as attacks are primarily clustered towards the middle and late start
--recognition of constituents is 2nd but this may be skewed by the recent ending on the US government shutdown
+- Shared Values are spread throughout the speeches from start to middle to end
+- Where as attacks are primarily clustered towards the middle and late start
+- Recognition of constituents is 2nd but this may be skewed by the recent ending on the US government shutdown
 
 # 🎬 Preview:
 

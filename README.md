@@ -26,12 +26,7 @@
 I wanted to create something that could help answer the why and when people applaud so I began research on political speeches throughout the western world. Initially I recorded sentiments, applause length, pause before applause, but this took way too long to complete thus I built my Applause Bot by developing an Ai Machine Learning program within Python leveraging pyaudio, Beautifulsoup, training it on my library of pre-recorded applauses so that it knew what to listen out for, while also loading it with my pre researched categories to ensure the causes for applauses are recorded automatically along with the timing.
 
 
-# 👁️‍🗨️ Insights:
-- We can see speeches are rarely ended on attacks
-- Signaling Shared Values takes a majority hold on frequency, but comes in 2nd on length in seconds 
-- Shared Values are spread throughout the speeches from start to middle to end
-- Where as attacks are primarily clustered towards the middle and late start
-- Recognition of constituents is 2nd but this may be skewed by the recent ending on the US government shutdown
+
 
 # 🎬 Preview:
 
@@ -42,6 +37,13 @@ https://github.com/user-attachments/assets/f5db8118-6613-4dd4-b193-49fafa32280b
 https://github.com/user-attachments/assets/3666f9cf-1aa2-404a-8281-fc841b400e48
 
 ![Data Relations](https://github.com/user-attachments/assets/ceae3a18-bd68-4302-98d4-f8037878794b)
+
+# 👁️‍🗨️ Insights:
+- We can see speeches are rarely ended on attacks
+- Signaling Shared Values takes a majority hold on frequency, but comes in 2nd on length in seconds 
+- Shared Values are spread throughout the speeches from start to middle to end
+- Where as attacks are primarily clustered towards the middle and late start
+- Recognition of constituents is 2nd but this may be skewed by the recent ending on the US government shutdown
 
 # 🗳️ Lessons and Improvements:
 

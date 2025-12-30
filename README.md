@@ -51,5 +51,10 @@ https://github.com/user-attachments/assets/3666f9cf-1aa2-404a-8281-fc841b400e48
 
 - Different time lengths of speeches are currently skewing the data, I am considering only selecting speeches of a similar length to fix this
 
-- My automated flow functions interdependantly throughout the middle but runs dependantly from the start and end
+- The applause bot (code snippit below) cannot yet identify categories behind the applause, it can only detect moments and lengths of applause
+
+
+
+<img width="980" height="947" alt="Applause ML" src="https://github.com/user-attachments/assets/a7510d0b-f739-488c-baed-53958f7c7609" />
+
 

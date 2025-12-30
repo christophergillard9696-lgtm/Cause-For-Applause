@@ -51,7 +51,7 @@ https://github.com/user-attachments/assets/3666f9cf-1aa2-404a-8281-fc841b400e48
 
 - Different time lengths of speeches are currently skewing the data, I am considering only selecting speeches of a similar length to fix this
 
-- The applause bot (code snippit below) cannot yet identify categories behind the applause, it can only detect moments and lengths of applause
+- The applause bot (code snippit below) cannot yet identify categories behind the applause, it can only detect moments and lengths of applause from my library of applause recordings (working on a fix)
 
 
 

@@ -23,7 +23,7 @@
 
 
 # ♟️ The Process:
-I wanted to create something that could help answer the why and when people applaud so I began research on political speeches throughout the western world. Initially I recorded sentiments, applause length, pause before applause all by hand, but this took way too long to complete thus I built my Applause Bot by developing an Ai Machine Learning program within Python leveraging pyaudio, Beautifulsoup, training it on my library of pre-recorded applauses so that it knew what to listen out for, while also loading it with my pre researched categories to ensure the causes for applauses are recorded automatically along with the timing.
+I wanted to create something that could help answer the why and when people applaud, so I began research on political speeches throughout the western world. Initially I recorded sentiments, applause length, pause before applause all by hand, but this took way too long to complete, thus I built my Applause Bot by developing a PyAudio Machine Learning program within Python leveraging Beautifulsoup for the sentiment analysis.
 
 
 
